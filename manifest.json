@@ -1,0 +1,10 @@
+{
+	"id": "youtrack-articles",
+	"name": "Youtrack Article Sync",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Synchronize notes with JetBrains YouTrack articles",
+	"author": "Brian Hrebec",
+	"authorUrl": "https://inklily.com",
+	"isDesktopOnly": false
+}
